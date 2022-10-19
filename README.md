@@ -33,7 +33,7 @@ Projeto de uma landing page expirada na gamers academy.
 ## 🌐 Preview
 
 <h1 align="center">
-    <img src="src/github/video-projeto.gif" />
+    <img src="github/video-projeto.gif" />
 </h1>
 
 ## 🚀 Tecnologias
