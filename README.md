@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Barber" title="#delicinha" src="src/images/first.jpg" width="150px" borderRadius="20px" />
+  <img alt="Barber" title="#delicinha" src="github/logo.png" width="150px" borderRadius="20px" />
 </h1>
 
 # Gamers Academy
