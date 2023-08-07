@@ -46,7 +46,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br />
 
+## ⛅
 
+- [Deploy](https://regal-sable-48c537.netlify.app/)
 
 <p align="center">
   Made with 💙 by <a href="https://www.linkedin.com/in/natan-xavier-a266a0228/"> Natan Xavier </a>
